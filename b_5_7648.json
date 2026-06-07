@@ -1,0 +1,6 @@
+{
+  "environment": "production",
+  "version": "1.4.2",
+  "maxConnections": 100,
+  "allowDebug": false
+}
